@@ -11,7 +11,7 @@ Tested on game build `ph-ft` patch08 (30 Oct 2026), single player only.
 
 ## Install (no building needed)
 
-Download the zips from the [Nexus page](#) or the Releases tab, then copy `ph_ft/source/data5.pak` (map) and/or `data7.pak` (shop) into
+Download the zips from the Releases tab, then copy `ph_ft/source/data5.pak` (map) and/or `data7.pak` (shop) into
 
 ```
 <Steam>\steamapps\common\Dying Light The Beast\ph_ft\source\
