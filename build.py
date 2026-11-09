@@ -20,7 +20,6 @@ import modkit  # noqa: E402
 
 VERSION = "1.0.0"
 MODS = (  # (folder, builder script, pak name, package name)
-    ("north_up_map", "build_map_north_up.py", "data5.pak", "NorthUpMap"),
     ("buy_all_components", "build_buy_components.py", "data7.pak", "BuyAllComponents"),
 )
 
